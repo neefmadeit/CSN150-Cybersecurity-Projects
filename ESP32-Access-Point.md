@@ -13,11 +13,7 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ## Links to documentation
 
-##### Video 1: https://youtu.be/I22uHf97EG4
-
-##### Video 2: https://youtu.be/HQBtwz5EBZM
-
-##### Other Links: https://lastminuteengineers.com/esp32-arduino-ide-tutorial/
+##### Links: https: https://randomnerdtutorials.com/esp32-cam-access-point-ap-web-server/
 
 
 ## Steps I followed
