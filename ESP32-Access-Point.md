@@ -17,8 +17,8 @@ Create an ESP32 Wifi Access Point.
 
 
 ## Steps I followed
-1. Bought the ESP32 Cam from Amazon
-2. Installed Arduino IDE
+1. Connect the ESP32 Cam to computer
+2. Open the Arduino IDE Software
 3. Installed the CH340 Windows Driver
 4. Updated Ardunio preferences with link provided
 5. Installed board drivers
