@@ -31,6 +31,5 @@ Create an ESP32 Wifi Access Point.
 12. 
    
 ## Problems
-No problems encountered.
+Don't forget to select the camera model in board_config.h #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 ## Final Report
-To make the esp32 blink faster you decrease the delay time and to make it blink slower you increase the delay time.
