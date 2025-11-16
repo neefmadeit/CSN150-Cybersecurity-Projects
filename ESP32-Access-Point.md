@@ -19,9 +19,9 @@ Create an ESP32 Wifi Access Point.
 ## Steps I followed
 1. Connect the ESP32 Cam to computer
 2. Open the Arduino IDE Software
-3. Installed the CH340 Windows Driver
-4. Updated Ardunio preferences with link provided
-5. Installed board drivers
+3. In your Arduino IDE, go to File > Examples > ESP32 > Camera > CameraWebServer
+4. Modify the code to act as an access point
+5. 
 6. Installed the esp32 library by Expressif Systems
 7. Connected the ESP32 Cam and open up the blink example code
 8. Modified the code with the correct PIN number
