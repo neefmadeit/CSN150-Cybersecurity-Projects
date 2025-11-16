@@ -28,7 +28,8 @@ Create an ESP32 Wifi Access Point.
 9. Add WiFi.softAP(ssid, password);
 10. Upload the code to the ESP32
 11. Connected to the access point
-12. 
+12. Open your web browser and type the IP address 192.168.4.1
+13. 
    
 ## Problems
 Don't forget to select the camera model in board_config.h #define CAMERA_MODEL_AI_THINKER // Has PSRAM
