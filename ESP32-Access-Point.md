@@ -22,7 +22,7 @@ Create an ESP32 Wifi Access Point.
 3. In your Arduino IDE, go to File > Examples > ESP32 > Camera > CameraWebServer
 4. Modify the code to act as an access point
 5. Define an SSID name and a password to access the ESP32-CAM
-6. Remove code from line 110 - 118
+6. Remove code from line 109 - 118
 7. After that add WiFi.setSleep(false);
 8. Add WiFi.softAP(ssid, password);
 9. Upload the code to the ESP32
