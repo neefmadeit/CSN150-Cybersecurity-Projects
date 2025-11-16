@@ -1,10 +1,10 @@
 # Cybersecurity : CSN150
 
 ## Name of Project
-ESP32 Access Point
+ESP32-CAM Access Point
 
 ## Purpose
-Create an ESP32 Wifi Access Point. 
+Create an ESP32-CAM Wifi Access Point. 
 
 ## Equipment
 * [ESP32Cam](https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_3?crid=4FY0ECFW0ZX7&keywords=ESP32+Cam&qid=1678902050&sprefix=esp32+cam%2Caps%2C240&sr=8-3)
@@ -17,7 +17,7 @@ Create an ESP32 Wifi Access Point.
 
 
 ## Steps I followed
-1. Connect the ESP32 Cam to computer
+1. Connect the ESP32-CAM to computer
 2. Open the Arduino IDE Software
 3. In your Arduino IDE, go to File > Examples > ESP32 > Camera > CameraWebServer
 4. Modify the code to act as an access point
@@ -26,7 +26,7 @@ Create an ESP32 Wifi Access Point.
 7. Remove code from line 109 - 118
 8. After that add WiFi.setSleep(false);
 9. Add WiFi.softAP(ssid, password);
-10. Upload the code to the ESP32
+10. Upload the code to the ESP32-CAM
 11. Connect to the access point
 12. Open your web browser and type the IP address 192.168.4.1
 13. View the video stream
