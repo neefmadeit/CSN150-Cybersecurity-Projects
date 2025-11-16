@@ -23,8 +23,8 @@ Create an ESP32 Wifi Access Point.
 4. Modify the code to act as an access point
 5. Define an SSID name and a password to access the ESP32-CAM
 6. Remove code from line 110 - 118
-7. Replace line 109 with WiFi.softAP(ssid, password);
-8. After that add WiFi.setSleep(false);
+7. After that add WiFi.setSleep(false);
+8. Add WiFi.softAP(ssid, password);
 9. Upload the code to the ESP32
 10. Connected to the access point
 11. 
