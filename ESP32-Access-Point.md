@@ -34,7 +34,7 @@ Create an ESP32-CAM Wifi Access Point.
 12. Open your web browser and type the IP address 192.168.4.1
 13. View the video stream
    
-## Problems
+## Problems / Solutions
 Don't forget to select the camera model in board_config.h #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 ## Final Report
 In this project I learned how to set the ESP32-CAM as an access point. When the ESP32-CAM is set as an access point, devices with Wi Fi capabilities can connect directly to the ESP32-CAM without the need to connect to a router. I can also view a video stream of the ESP32-CAM sees.
