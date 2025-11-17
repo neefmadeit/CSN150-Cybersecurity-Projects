@@ -1,10 +1,10 @@
 # Cybersecurity : CSN150
 
 ## Name of Project
-ESP32-CAM Access Point
+ESP32CAM: Picture to Telegram Assignment
 
 ## Purpose
-Create an ESP32-CAM Wifi Access Point. 
+Create an Telegram bot to interact with the ESP32-CAM to request a new photo.
 
 ## Equipment
 * [ESP32Cam](https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_3?crid=4FY0ECFW0ZX7&keywords=ESP32+Cam&qid=1678902050&sprefix=esp32+cam%2Caps%2C240&sr=8-3)
@@ -13,7 +13,7 @@ Create an ESP32-CAM Wifi Access Point.
 
 ## Links to documentation
 
-##### Links: https: https://randomnerdtutorials.com/esp32-cam-access-point-ap-web-server/
+##### Links: https:  https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 
 
 ## Steps I followed
