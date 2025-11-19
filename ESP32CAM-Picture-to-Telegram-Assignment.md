@@ -13,6 +13,7 @@ Create an Telegram bot to interact with the ESP32-CAM to request a new photo.
 
 ## Tools used 
 - Arduino
+- Telegram App
 
 ## Links to documentation
 
@@ -20,7 +21,15 @@ Create an Telegram bot to interact with the ESP32-CAM to request a new photo.
 
 ## Steps I followed
 1. Connect the ESP32-CAM to computer
-2. Open the Arduino IDE Software 
+2. Open the Arduino IDE Software
+3. Download the telegram app on my phone and created a bot
+4. Made note of the bot token
+5. Installed the Universal Telegram Bot Library in Arduino
+6. Copied the code and pasted it in Arduino
+7. Inserted my network credentials, chat ID, and Telegram Bot token
+8. Uploaded the code to the ESP32-CAM
+9. Verified that the ESP32-CAM is connected to my network
+10. Went to my Telegram account and open a conversation with my bot
    
 ## Problems / Solutions
 
