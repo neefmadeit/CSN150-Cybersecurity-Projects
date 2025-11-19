@@ -29,7 +29,7 @@ Create an Telegram bot to interact with the ESP32-CAM to request a new photo.
 7. Inserted my network credentials, chat ID, and Telegram Bot token
 8. Uploaded the code to the ESP32-CAM
 9. Verified that the ESP32-CAM is connected to my network
-10. Went to my Telegram account and open a conversation with my bot
+10. Went to my Telegram account and opened a conversation with my bot
    
 ## Problems / Solutions
 Make sure to use the correct IDBot when obtaning your user ID.
