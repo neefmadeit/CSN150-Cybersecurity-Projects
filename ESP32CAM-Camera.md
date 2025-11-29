@@ -24,13 +24,13 @@ Use the ESP32-CAM's Camera
 2. Open the Arduino IDE Software
 3. In your Arduino IDE, go to File > Examples > ESP32 > Camera > CameraWebServer
 4. Select the camera model in board_config.h
-6. Define an SSID name and a password to access the ESP32-CAM
+6. Define an SSID name and a password to my home's router
 7. Upload the code to the ESP32-CAM
-8. Connect to the access point
-9. Open your web browser and type the IP address 192.168.4.1
+8. Opended up a serial monitor window and got the ESP32-CAM ip address
+9. Open a web browser and type the IP address 192.168.4.1
 10. View the video stream
    
 ## Problems / Solutions
-
+I did not encounter any problems with this porject.
 ## Final Report
-In this project I learned how to setup the ESP32-CAM's camera and took a picture with it.
+In this project I learned how to setup the ESP32-CAM with a webserver that shows a videostream from the camera and I took a picture with it.
