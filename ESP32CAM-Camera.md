@@ -26,9 +26,10 @@ Use the ESP32-CAM's Camera
 4. Select the camera model in board_config.h
 6. Define an SSID name and a password to my home's router
 7. Upload the code to the ESP32-CAM
-8. Opended up a serial monitor window and got the ESP32-CAM ip address
+8. Opended up a serial monitor window and got the ESP32-CAM's ip address
 9. Open a web browser and type the IP address 192.168.4.1
-10. View the video stream
+10. Viewed the video stream
+11. Took a screenshot
    
 ## Problems / Solutions
 I did not encounter any problems with this porject.
