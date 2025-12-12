@@ -1,10 +1,10 @@
 # Cybersecurity : CSN150
 
 ## Name of Project
-Final Project
+Monitor Everything With Wazuh 
 
 ## Purpose
-My final project.
+The purpose of this project is to set up and deploy a SIEM. The SIEM that I will be using is called Wazuh. Wazuh is a free, open-source security platform, and it works by collecting, analyzing, and correlating security data from agents deployed on monitored systems to detect vulnerabilities, intrusions, and malicious activity.
 
 ## Tools used 
 - Wazuh
