@@ -13,8 +13,9 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 - Promox
 
 ## Links to documentation
-
-##### Links: https://documentation.wazuh.com/current/installation-guide/wazuh-server/index.html
+- Wazuh Sever: https://documentation.wazuh.com/current/installation-guide/wazuh-server/index.html
+- Wazuh Agent: https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html
+- Wazuh Dashbaord: https://documentation.wazuh.com/current/installation-guide/wazuh-dashboard/index.html
 
 
 ## Steps I followed
