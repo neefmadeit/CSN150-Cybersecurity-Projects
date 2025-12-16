@@ -20,8 +20,8 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 1. Installed the Ubuntu VM
 2. Updated Ubuntu using the follwing command in terminal - sudo apt update && sudo apt upgrade -y
 3. Installed the curl package using the follwing command in terminal - sudo apt install curl
-4. Installed Wazuh Sever using the follwing command in terminal - curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
-5. Part 2 of installation by using the follwing command in terminal - sudo bash-wazuh-install.sh -a
+4. Part 1 - installed Wazuh Sever using the follwing command in terminal - curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
+5. Finish part 2 of installation by using the follwing command in terminal - sudo bash-wazuh-install.sh -a
 6. Verified that the Wazuh sever is working by logging in the web dashboard
 7. Downloaded and installed the Wazuh agents on my systems
 8. Verifed that the agents are working by checking the web dashboard
