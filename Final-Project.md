@@ -25,7 +25,7 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 5. Part 2 of installation by using the follwing command in terminal - sudo bash-wazuh-install.sh -a
 6. Verified that the Wazuh sever is working by logging in the web dashboard
 7. Downloaded and installed the Wazuh agents on my systems
-8. Verifed that the agents are working by checing the web dashboard
+8. Verifed that the agents are working by checking the web dashboard
 
 ## Problems / Solutions
 Always remember to run the terminal as an admin when installing.
