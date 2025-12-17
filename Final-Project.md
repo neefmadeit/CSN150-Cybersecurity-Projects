@@ -29,3 +29,4 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 ## Problems / Solutions
 Always remember to run the terminal as an admin when installing.
 ## Final Report
+I am excited that I final got to install a SIEM and see how it works. The installation process was not very long and I recommend that anyone that is just starting out in the cybersecurity field should install Wazuh and give it a try for some hands on experience with SIEMS.
