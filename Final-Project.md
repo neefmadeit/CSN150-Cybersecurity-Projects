@@ -25,7 +25,7 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 6. Verified that the Wazuh sever is working by logging into the web dashboard
 7. Downloaded and installed the Wazuh agents on my systems from the Wazuh website
 8. Entered my server's ip address on the Wazuh agent setup tool
-9. Verifed that the agents are working by checking the web dashboard
+9. Verifed that the agents are working by checking the Wazuh's server web dashboard
 
 ## Problems / Solutions
 Always remember to run the terminal as an admin when installing.
