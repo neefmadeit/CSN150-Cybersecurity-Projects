@@ -22,9 +22,10 @@ The purpose of this project is to set up and deploy a SIEM. The SIEM that I will
 3. Installed the curl package using the follwing command in terminal - sudo apt install curl
 4. Part 1 - installed Wazuh Sever using the follwing command in terminal - curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh
 5. Part 2 - of installation by using the follwing command in terminal - sudo bash-wazuh-install.sh -a
-6. Verified that the Wazuh sever is working by logging in the web dashboard
-7. Downloaded and installed the Wazuh agents on my systems
-8. Verifed that the agents are working by checking the web dashboard
+6. Verified that the Wazuh sever is working by logging into the web dashboard
+7. Downloaded and installed the Wazuh agents on my systems from the Wazuh website
+8. Entered my server's ip address on the Wazuh agent setup tool
+9. Verifed that the agents are working by checking the web dashboard
 
 ## Problems / Solutions
 Always remember to run the terminal as an admin when installing.
